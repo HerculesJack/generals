@@ -270,7 +270,7 @@
 
 ​	<span style='color:DodgerBlue'> For an axis-symmetric Hamiltonian$:\quad H=\dfrac{p^2_R+p^2_z}{2}+\dfrac{L_z^2}{2R^2}+\Phi(R,z),$</span>
 
-​	<span style='color:DodgerBlue'> Taylar expand the potential$:\quad U-U_c=\dfrac{1}{2}[\kappa^2 (R-R_c)^2 + \nu_z^2 z^2],\quad \Omega=L_z/R_c,$</span>
+​	<span style='color:DodgerBlue'> Taylar expand the potential$:\quad U-U_c=\dfrac{1}{2}[\kappa^2 (R-R_c)^2 + \nu_z^2 z^2],\quad \Omega=L_z/R_c^2,$</span>
 
 ​	<span style='color:DodgerBlue'> The equations of motion become$:\quad \delta\ddot{R}+\kappa^2 \delta R=0,\quad R_c\delta\dot{\phi}+2\Omega\delta R=0,\quad \delta\ddot{z}+\nu_z^2\delta z=0,$</span>
 
